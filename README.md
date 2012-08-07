@@ -14,7 +14,7 @@ The result will be automatically convert into VHDL language.
 
 ## How to use it
 
-./picoBlazeRule words_file
+    ./picoBlazeRule words_file
 
 You can choose between two outputs.
 
