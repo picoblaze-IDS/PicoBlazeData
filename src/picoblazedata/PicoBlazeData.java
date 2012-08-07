@@ -21,6 +21,6 @@ public class PicoBlazeData {
     public static void main(String[] args) throws IOException {
         DataPacket dataPacket = new DataPacket(args[0]);
         
-        dataPacket.print(OUTPUT);
+        dataPacket.print(WORDS);
     }
 }
